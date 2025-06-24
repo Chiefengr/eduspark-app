@@ -1,4 +1,3 @@
-# app/main_flask.py
 from flask import Flask
 
 app = Flask(__name__)
